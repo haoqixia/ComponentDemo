@@ -1,0 +1,9 @@
+include ':app', ':bdmap',
+        ':reader',
+        ':share',
+        ':comservice',
+        ':basiclib',
+        ':basicres',
+        ':buildgradle',
+        ':componentlib',
+        ':router-annotation'
